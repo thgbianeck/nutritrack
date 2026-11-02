@@ -1,0 +1,24 @@
+{
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "chat.promptFilesLocations": {
+        ".github/prompts": true
+    },
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true
+    },
+    "chat.useAgentsMdFile": true,
+    "chat.agent.maxRequests": 100,
+    "editor.formatOnSave": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/target": true,
+        "**/dist": true,
+        "**/.angular": true
+    },
+    "files.watcherExclude": {
+        "**/node_modules/**": true,
+        "**/target/**": true,
+        "**/.angular/**": true
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "github.copilot",
+    "github.copilot-chat",
+    "vscjava.vscode-java-pack",
+    "vmware.vscode-boot-dev-pack",
+    "angular.ng-template",
+    "ms-azuretools.vscode-docker",
+    "mongodb.mongodb-vscode",
+    "ms-playwright.playwright",
+    "editorconfig.editorconfig"
+  ]
+}
